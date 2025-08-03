@@ -1,4 +1,6 @@
 gradio
 scikit-learn
 pandas
+Flask==2.3.2
+requests
 joblib
